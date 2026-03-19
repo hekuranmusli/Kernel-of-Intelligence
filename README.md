@@ -1,5 +1,10 @@
 # Intelligence Kernel: A Computable Approximation of AIXI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![AGI](https://img.shields.io/badge/AGI-Architecture-success.svg)](#)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+
 > *"Intelligence is not the ability to memorize an infinite number of facts. It is the ability to find the shortest possible description of the reality generating those facts."*
 
 This repository contains the experimental codebase for the **Intelligence Kernel**, a fundamentally different approach to Artificial General Intelligence (AGI). It moves away from the current paradigm of scaling up correlational pattern-matching (like standard LLMs) and instead builds a computable approximation of **Marcus Hutter's AIXI**—the provably optimal, yet incomputable, general intelligence.
