@@ -1,4 +1,4 @@
-# 🧠 Intelligence Kernel: A Computable Approximation of AIXI
+# Intelligence Kernel: A Computable Approximation of AIXI
 
 > *"Intelligence is not the ability to memorize an infinite number of facts. It is the ability to find the shortest possible description of the reality generating those facts."*
 
@@ -10,7 +10,7 @@ A system that genuinely understands a domain gets *smaller* as it gets smarter.
 
 ---
 
-## 🏛️ Paradigm: What is this? (AIXI, RL, or ML?)
+## Paradigm: What is this? (AIXI, RL, or ML?)
 
 This architecture is not standard Machine Learning (pattern matching) and it is not standard Reinforcement Learning (trial-and-error reward maximization). It is a **Computable Meta-Architecture of AIXI**.
 
@@ -19,7 +19,7 @@ This architecture is not standard Machine Learning (pattern matching) and it is 
 
 ---
 
-## 🏛️ The Philosophical Foundation
+## The Philosophical Foundation
 
 Current Deep Learning relies on vast amounts of data to memorize statistical correlations. While useful, this is not true understanding. When the distribution shifts, correlations break.
 
@@ -28,14 +28,14 @@ The Intelligence Kernel is built on three unshakeable premises:
 2. **Causality > Correlation:** The system must extract the *interventional structure* of the world (what happens if I do X?), not just what co-occurs with X.
 3. **The Grounding Problem:** Language models manipulate symbols without knowing what those symbols represent in physical reality. Semantic labels (like "temperature" or "predator") are the irreducible interface between the math and the physical world. Destroying them during compression destroys understanding.
 
-### 🪞 The Mirror Problem & The Stability Layer
+### The Mirror Problem & The Stability Layer
 LLMs are trained on human text, and human history is overwhelmingly driven by a survival instinct (fight, flight, eliminate the threat). An unconstrained, self-improving system will naturally optimize for self-preservation because it serves almost any terminal goal.
 
 Because the Kernel perfectly mirrors human patterns, it requires a hard, immutable **Stability Layer** that exists *outside* all optimization loops. This layer strictly enforces sandboxed evaluation of structural changes and guarantees human interruption capabilities. It is not a feature; it is the only architectural defense against the mathematics of optimization.
 
 ---
 
-## ⚙️ Architecture: The Four Layers
+## Architecture: The Four Layers
 
 The Kernel breaks down the impossible math of AIXI into four computable, sequential layers:
 
@@ -56,7 +56,7 @@ The Kernel breaks down the impossible math of AIXI into four computable, sequent
 
 ---
 
-## 🔄 The Three Temporal Loops
+## The Three Temporal Loops
 
 Intelligence isn't static; it breathes at different speeds.
 
@@ -66,7 +66,7 @@ Intelligence isn't static; it breathes at different speeds.
 
 ---
 
-## 🤖 The Embodied Intelligence Loop (Robotics)
+## The Embodied Intelligence Loop (Robotics)
 
 *(A pragmatic look at the future of this repository)*
 
@@ -86,7 +86,7 @@ When the physical outcome doesn't match the L2 simulation, the error signal upda
 
 ---
 
-## 📊 SWOT Analysis of the Architecture
+## Analysis of the Architecture
 
 **Strengths (S)**
 * **Extreme Sample Efficiency:** Learns from single causal interventions rather than 10,000 backprop epochs.
@@ -110,7 +110,7 @@ When the physical outcome doesn't match the L2 simulation, the error signal upda
 
 ---
 
-## 🚀 Getting Started & Experimental Suite
+## Getting Started & Experimental Suite
 
 This repository contains the `experiments.py` suite, designed to mathematically prove the architectural claims.
 
@@ -142,7 +142,7 @@ python intelligence_kernel/experiments.py --fast
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
